@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_Seeker.cshtml";
+}
+@model User_Seeker
+<form asp-action="EditButton" asp-controller="Seeker" enctype="multipart/form-data">
+<div class="container">
+    <!-- Profile Header -->
+        <div class="profile-header d-flex flex-column align-items-center">
+        <img src="/img/icon.png" alt="Profile Picture" class="profile-picture">
+
+        <br />
+        <br />
+        
+        Name: <input type="text" style="width:20rem" name="name" class="form-control" value="@Model.seeker_name" />
+
+     
+    </div>
+
+    <!-- Profile Information -->
+    <div class="row profile-info">
+   
+        <div class="col-md-4">
+            <h4>Contact</h4>
+             Email:  <input style="width:20rem" name="email" class="form-control" value="@Model.seeker_email" />
+             Phone:   <input style="width:20rem" name="contact" class="form-control" value="@Model.seeker_contact" />
+        </div>
+        <div class="col-md-4">
+            <h4>Location</h4>
+                <input style="width:20rem" name="address" class="form-control" value="@Model.seeker_address" />
+        </div>
+    </div>
+     <button type="submit" class="btn btn-success">Save</button>
+</form>

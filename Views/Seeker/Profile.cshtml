@@ -1,0 +1,58 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_Seeker.cshtml";
+}
+@model IEnumerable<AdventureSeekers.Models.SeekerWithPost>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+<div class="container">
+    <!-- Profile Header -->
+    <div class="profile-header">
+        <img src="/img/icon.png" alt="Profile Picture" class="profile-picture">
+        <br />
+        <br />
+        <a asp-action="EditProfile" asp-controller="Seeker" class="btn btn-outline-secondary ">Edit Profile</a>
+        <h2 class=" text-decoration-underline">@ViewBag.name</h2>
+        <p>Seeker's Name</p>
+
+    </div>
+
+    <!-- Profile Information -->
+    <div class="row profile-info">
+
+        <div class="col-md-4">
+            <h4>Contact</h4>
+            <p>Email: @ViewBag.email</p>
+            <p>Phone:  @ViewBag.contact</p>
+        </div>
+        <div class="col-md-4">
+            <h4>Location</h4>
+            <p> @ViewBag.address</p>
+        </div>
+    </div>
+
+    <!-- Posts or Activity -->
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Recent Posts</h4>
+            @foreach (var item in Model)
+            {
+                <div class="post row mb-3">
+                    <div class="col-md-2">
+                        <img src="@item.post.post_image" class="img-fluid" style="height:10rem;width:10rem" />
+                    </div>
+                    <div class="col-md-10">
+                        <h5 class="font-weight-bold">@item.post.post_title</h5>
+                        <p>@item.post.post_caption</p>
+                        <p><strong>Location: </strong>@item.post.post_location</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
