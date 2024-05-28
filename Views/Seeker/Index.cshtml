@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_Seeker.cshtml";
+}
+@model IEnumerable<AdventureSeekers.Models.SeekerWithPost>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Recent Posts</h4>
+            @foreach (var item in Model)
+            {
+                <div class="post row">
+                    <div class="col-md-4">
+                        <img src="@item.post.post_image" class="img-fluid" />
+                    </div>
+                    <div class="col-md-4">
+                        <h5 class="post-title">@item.seeker.seeker_name </h5>
+                        <p> @item.post.post_title</p>
+                        <p>@item.post.post_caption</p>
+                        <p class="post-location"><strong>Location: </strong>@item.post.post_location</p>
+                        <p class="border bg-primary text-white bordered">@item.post.post_categories</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h5>Comments</h5>
+                        <div class="comments">
+                            @foreach (var comments in item.comment)
+                            {
+                                <div class="comment">
+                                    <p><strong>@comments.comment_name:</strong> @comments.comment</p>
+                                </div>
+                            }
+                        </div>
+                        <form asp-controller="Seeker" asp-action="AddComment">
+                            <div class="form-group">
+                                <label for="commentText">Add a comment:</label>
+                                <textarea class="form-control" id="commentText" name="commentText" rows="3"></textarea>
+                            </div>
+                            <input type="hidden" name="postId" value="@item.post.post_id" />
+                            <button type="submit" class="btn btn-primary mt-3">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

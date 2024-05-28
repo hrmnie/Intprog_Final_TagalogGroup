@@ -1,0 +1,43 @@
+﻿@model AdventureSeekers.Models.User_Seeker
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>User_Seeker</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.seeker_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.seeker_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.seeker_email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.seeker_email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.seeker_contact)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.seeker_contact)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.seeker_address)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.seeker_address)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.seeker_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

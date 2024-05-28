@@ -1,0 +1,49 @@
+﻿@model AdventureSeekers.Models.User_Post
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout_Seeker.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>User_Post</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.post_image)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.post_image)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.post_title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.post_title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.post_caption)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.post_caption)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.post_location)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.post_location)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User_Seekers)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User_Seekers.seeker_name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.post_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

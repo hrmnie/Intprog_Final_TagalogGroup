@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\controllers\\user_postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:controllers\\user_postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\controllers\\seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:controllers\\seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_seeker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_seeker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_seeker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_seeker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_seeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_seeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\shared\\_layout_seeker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\shared\\_layout_seeker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_seeker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_seeker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\models\\user_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:models\\user_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\data\\adventureseekerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:data\\adventureseekerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\hiking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\hiking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\gastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\gastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\family.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\family.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\extreme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\extreme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\bike.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\bike.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\seeker\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\seeker\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\models\\seekerwithpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:models\\seekerwithpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\controllers\\user_seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:controllers\\user_seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\models\\user_seeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:models\\user_seeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AdventureSeekers/True/SqlTable/dbo.User_Seeker.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\views\\user_seeker\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:views\\user_seeker\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\migrations\\20240527164108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:migrations\\20240527164108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\migrations\\20240527233436_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:migrations\\20240527233436_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\migrations\\20240527174734_updatewithimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:migrations\\20240527174734_updatewithimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\migrations\\20240528113041_addedcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:migrations\\20240528113041_addedcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|c:\\users\\maymay\\downloads\\adventureseekers-master\\adventureseekers-master\\adventureseekers\\migrations\\20240528101302_addedcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6169F272-D7DA-4873-AD3A-CC20B2B2CBA2}|AdventureSeekers.csproj|solutionrelative:migrations\\20240528101302_addedcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Post\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Details.cshtml",
+              "RelativeToolTip": "Views\\User_Post\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:42:25.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Index.cshtml",
+              "RelativeToolTip": "Views\\User_Post\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:42:03.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Gastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Gastro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Gastro.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Gastro.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Gastro.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:45:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Extreme.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Extreme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Extreme.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Extreme.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Extreme.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:44:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Family.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Family.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Family.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Family.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Family.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:44:33.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hiking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Hiking.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Hiking.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Hiking.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Hiking.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:33:51.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Index.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:55:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bike.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Bike.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Bike.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Bike.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Bike.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:45:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:42:21.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout_Seeker.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout_Seeker.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout_Seeker.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout_Seeker.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout_Seeker.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:56:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeekerController.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\SeekerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeekerController.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\SeekerController.cs",
+              "RelativeToolTip": "Controllers\\SeekerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:56:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Post\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Create.cshtml",
+              "RelativeToolTip": "Views\\User_Post\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T23:40:11.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\User_PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User_PostController.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\User_PostController.cs",
+              "RelativeToolTip": "Controllers\\User_PostController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:38:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User_Post.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\User_Post.cs",
+              "RelativeDocumentMoniker": "Models\\User_Post.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\User_Post.cs",
+              "RelativeToolTip": "Models\\User_Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:30:26.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T17:05:21.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Post\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User_Post\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:08:03.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:50:38.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:42:46.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240528113041_addedcategories.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240528113041_addedcategories.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240528113041_addedcategories.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240528113041_addedcategories.cs",
+              "RelativeToolTip": "Migrations\\20240528113041_addedcategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:30:42.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\EditProfile.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\EditProfile.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:16:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seeker\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Seeker\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Seeker\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:55:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:43:11.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SeekerWithPost.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\SeekerWithPost.cs",
+              "RelativeDocumentMoniker": "Models\\SeekerWithPost.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\SeekerWithPost.cs",
+              "RelativeToolTip": "Models\\SeekerWithPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:47:53.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T10:20:12.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User_SeekerController.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\User_SeekerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User_SeekerController.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\User_SeekerController.cs",
+              "RelativeToolTip": "Controllers\\User_SeekerController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:34:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:03.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240528101302_addedcomment.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240528101302_addedcomment.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240528101302_addedcomment.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240528101302_addedcomment.cs",
+              "RelativeToolTip": "Migrations\\20240528101302_addedcomment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:13:02.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User_Seeker.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\User_Seeker.cs",
+              "RelativeDocumentMoniker": "Models\\User_Seeker.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\User_Seeker.cs",
+              "RelativeToolTip": "Models\\User_Seeker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:25:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdventureSeekersContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Data\\AdventureSeekersContext.cs",
+              "RelativeDocumentMoniker": "Data\\AdventureSeekersContext.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Data\\AdventureSeekersContext.cs",
+              "RelativeToolTip": "Data\\AdventureSeekersContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:35:25.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout_Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout_Admin.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout_Admin.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:57:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.User_Seeker [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AdventureSeekers/True/SqlTable/dbo.User_Seeker.sql",
+              "ToolTip": "dbo.User_Seeker [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T23:31:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240527233436_update.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527233436_update.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527233436_update.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527233436_update.cs",
+              "RelativeToolTip": "Migrations\\20240527233436_update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:34:36.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:29:20.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240527174734_updatewithimage.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527174734_updatewithimage.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527174734_updatewithimage.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527174734_updatewithimage.cs",
+              "RelativeToolTip": "Migrations\\20240527174734_updatewithimage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:47:34.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Seeker\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Delete.cshtml",
+              "RelativeToolTip": "Views\\User_Seeker\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Seeker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Create.cshtml",
+              "RelativeToolTip": "Views\\User_Seeker\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Seeker\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Details.cshtml",
+              "RelativeToolTip": "Views\\User_Seeker\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Seeker\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User_Seeker\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User_Seeker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Views\\User_Seeker\\Index.cshtml",
+              "RelativeToolTip": "Views\\User_Seeker\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:01:28.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:58:49.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:52:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240527164108_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527164108_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527164108_initialcreate.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Migrations\\20240527164108_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20240527164108_initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:41:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T16:34:45.051Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Maymay\\Downloads\\AdventureSeekers-master\\AdventureSeekers-master\\AdventureSeekers\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:55:33.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

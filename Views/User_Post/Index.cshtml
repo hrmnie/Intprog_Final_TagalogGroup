@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AdventureSeekers.Models.User_Post>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout_Seeker.cshtml";
+}
+
+<h4>Information Uploaded</h4>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.post_image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.post_title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.post_caption)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.post_location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User_Seekers)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.post_image)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.post_title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.post_caption)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.post_location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User_Seekers.seeker_name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.post_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.post_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.post_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
